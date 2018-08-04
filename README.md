@@ -8,4 +8,4 @@ This is a screenshot of the MySQL Database for bamazon:
 
 Watch the example video below where this app is used in the terminal
 
-<a href="https://drive.google.com/file/d/1YHOgtLddCy77Aqz_aiXsnZHGI_94EeB3/view" alt="Video Runthrough" width="480" height="360" border="10" /></a>
+<a href="https://drive.google.com/file/d/1YHOgtLddCy77Aqz_aiXsnZHGI_94EeB3/view" target="_blank"><img src="/screenshots/video-image.png" alt="Video Runthrough" width="480" height="360" border="10" /></a>
