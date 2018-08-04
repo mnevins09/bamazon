@@ -9,4 +9,4 @@ This is a screenshot of the MySQL Database for bamazon:
 
 Watch the example video below where this app is used in the terminal
 
-![Watch the video](https://drive.google.com/file/d/1YHOgtLddCy77Aqz_aiXsnZHGI_94EeB3/view)
+![Watch the video](screenshots/video.webm)
