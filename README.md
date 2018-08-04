@@ -1,6 +1,6 @@
 # bamazon
 
-Bamazon attempts to replicate an inventory system for your favorite online store. There is a customer view for ordering as well as a manager view for stock management. Both view apps are written in Node and interact with a MySQL database. NPM packages used for this app include inquirer and mysql.
+Bamazon attempts to replicate an inventory system for your favorite online store. It contains a customer view for ordering.  The app is written in Node and interacts with a MySQL database. NPM packages used for this app include inquirer and mysql.
 
 Watch the video below!
 
