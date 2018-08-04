@@ -4,9 +4,9 @@ Bamazon attempts to replicate an inventory system for your favorite online store
 
 This is a screenshot of the MySQL Database for bamazon:
 
-![MySQL Database](/screenshots/mysql.png)
+![MySQL Database](bamazon/screenshots/mysql.PNG)
 
 
 Watch the example video below where this app is used in the terminal
 
-![Terminal Video](/screenshots/video.webm)
+![Terminal Video](bamazon/screenshots/video.webm)
